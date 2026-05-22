@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Music Match",
+    "slug": "music-match",
+    "version": "1.0.0",
+    "sdkVersion": "56.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "jsEngine": "hermes"
+  }
+}
