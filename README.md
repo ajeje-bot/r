@@ -18,11 +18,11 @@ Un'app ibrida ispirata a TikTok e Tinder, focalizzata sui brani Spotify. Connett
 npm install
 ```
 
-2. Crea un'app su Spotify Developer: https://developer.spotify.com/dashboard/applications
+1. Crea un'app su Spotify Developer: <https://developer.spotify.com/dashboard/applications>
 
-3. Copia il `Client ID` e incollalo in `src/config.ts` sostituendo `YOUR_SPOTIFY_CLIENT_ID`.
+2. Copia il `Client ID` e incollalo in `src/config.ts` sostituendo `YOUR_SPOTIFY_CLIENT_ID`.
 
-4. Aggiungi il redirect URI alla tua app Spotify:
+3. Aggiungi il redirect URI alla tua app Spotify:
 
 ```text
 https://auth.expo.io/@your-username/music-match
@@ -30,13 +30,13 @@ https://auth.expo.io/@your-username/music-match
 
 > Se usi Expo senza account, puoi sostituire `@your-username` con il tuo username Expo.
 
-5. Avvia l'app:
+1. Avvia l'app:
 
 ```bash
 npm start
 ```
 
-6. Usa Expo Go su mobile o apri l'app in un emulatore.
+1. Usa Expo Go su mobile o apri l'app in un emulatore.
 
 ## Note
 
